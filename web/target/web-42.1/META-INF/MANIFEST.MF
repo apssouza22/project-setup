@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: web
+Implementation-Version: 42.1
+Built-By: apssouza
+Implementation-Vendor-Id: com.apssouza.setup
+Created-By: Apache Maven 3.6.1
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/project-setup/web
+
